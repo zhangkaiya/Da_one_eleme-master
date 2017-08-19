@@ -47,7 +47,6 @@ public class Person_Fragment extends BaseFragment implements View.OnClickListene
             textView4.setOnClickListener(null);
         }
     };
-    private String filename;
     private String fileName;
 
     @Override
